@@ -4,5 +4,9 @@ public class Hello{
 		System.out.println("aa");
 		int myAge = 30;
 		System.out.println("my Age is "+myAge);
+		System.out.println("ffffff);
+		System.out.println("ffffff);
+		System.out.println("ffffff);
+		
 	}
 }
